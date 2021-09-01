@@ -1,8 +1,8 @@
 Arguments: 
-  /usr/local/bin/node /usr/local/bin/yarnpkg install
+  /usr/local/bin/node /usr/local/bin/yarn install
 
 PATH: 
-  /Applications/Postgres.app/Contents/Versions/@latest/bin/:/usr/local/opt/libpq/bin:/Library/Frameworks/Python.framework/Versions/3.9/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/Users/jhonrhayparreno/Library/Android/sdk/emulator:/Users/jhonrhayparreno/Library/Android/sdk/tools:/Users/jhonrhayparreno/Library/Android/sdk/tools/bin:/Users/jhonrhayparreno/Library/Android/sdk/platform-tools:/Users/jhonrhayparreno/Developer/flutter/.pub-cache/bin:/Users/jhonrhayparreno/.rvm/bin
+  /Applications/Postgres.app/Contents/Versions/@latest/bin/:/usr/local/opt/libpq/bin:/Library/Frameworks/Python.framework/Versions/3.9/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/Applications/Postgres.app/Contents/Versions/@latest/bin/:/usr/local/opt/libpq/bin:/Library/Frameworks/Python.framework/Versions/3.9/bin:/Users/jhonrhayparreno/Library/Android/sdk/emulator:/Users/jhonrhayparreno/Library/Android/sdk/tools:/Users/jhonrhayparreno/Library/Android/sdk/tools/bin:/Users/jhonrhayparreno/Library/Android/sdk/platform-tools:/Users/jhonrhayparreno/Developer/flutter/.pub-cache/bin:/Users/jhonrhayparreno/.rvm/bin:/Users/jhonrhayparreno/Library/Android/sdk/emulator:/Users/jhonrhayparreno/Library/Android/sdk/tools:/Users/jhonrhayparreno/Library/Android/sdk/tools/bin:/Users/jhonrhayparreno/Library/Android/sdk/platform-tools:/Users/jhonrhayparreno/Developer/flutter/.pub-cache/bin
 
 Yarn version: 
   1.22.10
@@ -14,7 +14,7 @@ Platform:
   darwin x64
 
 Trace: 
-  Error: getaddrinfo ENOTFOUND codeload.github.com
+  Error: getaddrinfo ENOTFOUND github.com
       at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26)
 
 npm manifest: 
